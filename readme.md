@@ -53,7 +53,4 @@ Also, there might be some ways in which the term 'jargon' is not captured too we
 
 But maybe the general observation, that the average philosophical abstract is quite a bit more complicated than what readers find most "cite-worthy", should give us some pause, independent of the mechanism that will turn out to be responsible for it.
 
-
-
-
-
+*I thank Raphael Aybar, who provided helpful comments for this post.*
