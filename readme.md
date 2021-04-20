@@ -1,4 +1,4 @@
-# Philosophy is too complicated! Or: A quick analysis of jargon and citation-rates in philosophy
+# Philosophy is too complicated! Or: A quick analysis of jargon and citation rates in philosophy
 
 Justin Weinberg asked a [few days ago](https://dailynous.com/2021/04/15/jargon-citation-in-philosophy/) whether the use of jargon might play into the generally low citation rates of papers in philosophy. I found this question very interesting and decided to turn it into a little weekend project. 
 
